@@ -1,4 +1,4 @@
-L.mapbox.accessToken = 'pk.eyJ1Ijoib21vbmRpc3RldmUiLCJhIjoiZUFHU3dUNCJ9.SRi0Uox_FyeqIY3gzBbgxw';
+L.mapbox.accessToken = 'pk.eyJ1Ijoib21vbmRpc3RldmUiLCJhIjoiY2l6dnF4azlpMDAwaTMybngzbG5zc2dybCJ9.0WxrROcxc8WnAkcoWThc5w';
 
 var map = L.mapbox.map('map', 'mapbox.streets', {
     zoomControl: false
