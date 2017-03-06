@@ -1,7 +1,7 @@
 L.mapbox.accessToken = 'pk.eyJ1Ijoib21vbmRpc3RldmUiLCJhIjoiY2l6dnF4azlpMDAwaTMybngzbG5zc2dybCJ9.0WxrROcxc8WnAkcoWThc5w';
 
 var map = L.mapbox.map('map', 'mapbox.streets', {
-    zoomControl: false
+    zoomControl: true
 }).setView([-1.2936, 37.02544], 15);
 
 // move the attribution control out of the way
